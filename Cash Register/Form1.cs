@@ -84,7 +84,7 @@ namespace Cash_Register
                 //outputs
                 subtotalOutput.Text = $"{subtotalAmount.ToString("C")}";
                 taxOutput.Text = $"{taxAmount.ToString("c")}";
-                totalOwed.Text = $"{totalAmount.ToString("c")}";
+                totalOwed.Text = $"{totalAmount.ToString("c")}";   
 
 
             }
